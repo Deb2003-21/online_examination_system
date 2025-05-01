@@ -1,0 +1,34 @@
+
+
+div#tsbdy{
+background-image: url('https://img.freepik.com/premium-photo/anime-handsome-boy-illustration-suit-generat-ai_972969-3230.jpg')
+}
+
+div#bck
+{
+  background-image: url('https://static.vecteezy.com/system/resources/previews/027/736/513/non_2x/school-classroom-anime-visual-novel-game-generate-ai-photo.jpg');
+}
+div#bk{
+  background-image: url('https://th.bing.com/th/id/R.b54399b827ad263bd39bf4aac1b72042?rik=UOmCKbiB6cijQQ&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f08%2fHD-Library-Wallpaper.jpg&ehk=fWuJgfNqg3VG4VT26EAm0NXdvqhXaVLXyrdddUn3h%2fQ%3d&risl=&pid=ImgRaw&r=0');
+  filter: blur(8px);
+}
+#log{
+    /*
+      background: url('https://tailwindadmin.netlify.app/dist/images/login-new.jpeg');
+    */
+    background: url('https://img.freepik.com/premium-photo/3d-cartoon-using-laptops-sitting-chairs-cute-cartoon-working-playing-social-media-technology-futuristic-poster-ai-generative_43969-5456.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#tch
+{
+  background: url('https://static.vecteezy.com/system/resources/previews/022/021/264/large_2x/blurred-classroom-with-bookshelves-based-on-defocussed-effect-abstract-blurred-empty-university-library-interior-space-use-for-background-or-backdrop-in-bookstore-business-or-education-concepts-photo.jpg');
+
+}
+
+#cer
+{
+  background-image: url('background.webp');
+  background-repeat: no-repeat;
+}
