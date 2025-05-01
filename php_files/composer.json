@@ -1,0 +1,9 @@
+{
+    "require": {
+        "cboden/ratchet": "^0.4.4",
+        "predis/predis": "^2.2",
+        "textalk/websocket": "^1.5",
+        "mpdf/mpdf": "^8.2",
+        "dompdf/dompdf": "^3.0"
+    }
+}

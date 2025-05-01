@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Certificate</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+body { font-family: Arial, sans-serif; text-align: center; }
+        .container { width: 100%; }
+        .certificate-img { max-width: 100%; height: auto; }
+        .text { margin-top: 20px; font-size: 20px; }
+        .certificate-container {
+            position: relative;
+            display: inline-block;
+        }
+        .certificate-text {
+            position: absolute;
+            top: 51%; /* Adjust this value to vertically align the text */
+            left: 63%; /* Adjust this value to horizontally align the text */
+            transform: translate(-50%, -50%);
+            font-size: 2.5vw; /* Adjust font size as needed */
+            color: black; /* Change text color if needed */
+        }
+.certificate-text1 {
+            position: absolute;
+            top: 75%; /* Adjust this value to vertically align the text */
+            left: 41%; /* Adjust this value to horizontally align the text */
+             font-size: 2.5vw; /* Adjust font size as needed */
+            color: green; /* Change text color if needed */
+        }
+.certificate-text2 {
+            position: absolute;
+            top: 75%; /* Adjust this value to vertically align the text */
+            right: 15%; /* Adjust this value to horizontally align the text */
+           font-size: 2.5vw; /* Adjust font size as needed */
+            color: black; /* Change text color if needed */
+        }
+    </style>
+</head>
+<body class="flex items-center justify-center min-h-screen bg-gray-100">
+    <div class="certificate-container">
+        <img src="http://localhost/pg/project/cer.jpg"  alt="Certificate">
+        <div class="certificate-text">
+            Your Name
+        </div>
+<div class="certificate-text1">
+            Your aggr
+        </div>
+<div class="certificate-text2">
+            Your aggr
+        </div>
+    </div>
+</body>
+</html>
