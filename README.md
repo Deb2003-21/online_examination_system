@@ -1,4 +1,4 @@
-![IMG-20250501-WA0005](https://github.com/user-attachments/assets/1ee170af-3081-4bb9-a472-aff662267175)# online_examination_system
+# online_examination_system
 Since you want the updated `README.md` for the `exam-project` folder, I will rewrite it to include the description of your project. Here's the updated content:
 
 ---
@@ -91,12 +91,7 @@ Ensure the database is configured properly and connected to the backend.
 
 ## Screenshots
 
-![IMG-20250501-WA0005](https://github.com/user-attachments/assets/0143d57a-7828-47ca-be5b-521ae148b224)
-![IMG-20250501-WA0007](https://github.com/user-attachments/assets/3999457d-458f-48de-8ceb-23cb6e025329)
-![IMG-20250501-WA0006](https://github.com/user-attachments/assets/359b0575-4ed9-4f00-bd06-82b3af2ebbb9)
-![IMG-20250501-WA0002](https://github.com/user-attachments/assets/6ed9f9e1-58de-4b1a-8796-e2c36cd7cd72)
-![IMG-20250501-WA0004](https://github.com/user-attachments/assets/287cd697-80d5-45c8-8364-cc91dc41b8b1)
-![IMG-20250501-WA0003](https://github.com/user-attachments/assets/7aa190be-a494-4eee-85fe-64c2f56c0982)
+![IMG-20250501-WA0005](https://github.com/user-attachments/assets/0143d57a-7828-47ca-be5b-521ae148b224)![IMG-20250501-WA0007](https://github.com/user-attachments/assets/3999457d-458f-48de-8ceb-23cb6e025329)![IMG-20250501-WA0006](https://github.com/user-attachments/assets/359b0575-4ed9-4f00-bd06-82b3af2ebbb9)![IMG-20250501-WA0002](https://github.com/user-attachments/assets/6ed9f9e1-58de-4b1a-8796-e2c36cd7cd72)![IMG-20250501-WA0004](https://github.com/user-attachments/assets/287cd697-80d5-45c8-8364-cc91dc41b8b1)![IMG-20250501-WA0003](https://github.com/user-attachments/assets/7aa190be-a494-4eee-85fe-64c2f56c0982)
 
 
 ## Contributing
