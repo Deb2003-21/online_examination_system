@@ -1,5 +1,4 @@
 # online_examination_system
-Since you want the updated `README.md` for the `exam-project` folder, I will rewrite it to include the description of your project. Here's the updated content:
 
 ---
 
