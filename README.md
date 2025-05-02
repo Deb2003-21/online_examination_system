@@ -1,9 +1,5 @@
 # online_examination_system
 
----
-
-# Exam Project
-
 An online examination system built with **React**, **PHP**, and **MySQL**, offering a seamless and interactive platform for online exams. This project incorporates real-time communication, attendance tracking, time submission, and leaderboard functionality, ensuring a comprehensive solution for both teachers and students.
 
 ## Features
